@@ -14,9 +14,6 @@ fork it or clone it and run using node
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-TODO: Write history
-@kn9ts
-TODO: Write credits
 ## License
 Free for all
 ></content>
