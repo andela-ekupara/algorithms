@@ -1,6 +1,6 @@
 
 <snippet>
-  <content><![CDATA
+  <content>
 # 1:Algorithms
 This repository contains code written during the #the-bigO meet-ups at Andela.
 
