@@ -1,11 +1,8 @@
-
-<snippet>
-  <content>
-# 1:Algorithms
+# Algorithms
 This repository contains code written during the #the-bigO meet-ups at Andela.
 
 ## Installation
-fork it or clone it and run using node
+Fork it or clone it and run using node
 
 ## Contributing
 1. Fork it!
@@ -16,6 +13,3 @@ fork it or clone it and run using node
 
 ## License
 Free for all
-></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
