@@ -1,7 +1,7 @@
 
 <snippet>
-  <content><![CDATA[
-# ${1:Algorithms}
+  <content><![CDATA
+# 1:Algorithms
 This repository contains code written during the #the-bigO meet-ups at Andela.
 
 ## Installation
@@ -19,6 +19,6 @@ TODO: Write history
 TODO: Write credits
 ## License
 Free for all
-]]></content>
+></content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
