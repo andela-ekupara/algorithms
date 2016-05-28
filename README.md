@@ -1,5 +1,6 @@
 # Algorithms
 This repository contains code written during the #the-bigO meet-ups at Andela.
+The first algorithm is a Sort algorithm: Insertion Sort
 
 ## Installation
 Fork it or clone it and run using node
